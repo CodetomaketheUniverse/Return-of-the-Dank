@@ -8,3 +8,7 @@ Step 7: Created Branch-2 from Branch-1 Commit 4, Added Dank Meme 6 and updated R
 Step 8: Added Dank Meme 7 and updated README
 Step 9: Added Dank Meme 8 and updated README
 Step 10: Updated STEPS.md and README
+Step 11: Merged Branch-2 with Branch-1 with merging conflicts. Accepting Incomming changes first.
+Step 12: Added Dank Meme 9, updated README
+Step 13: Merged Branch 1 with Main with merging conflicts. Accepting Incomming changes first.
+Step 14: Added Dank Meme 10, updated README

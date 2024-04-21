@@ -21,3 +21,4 @@ Added Dank Meme 8
 Added Dank Meme 4
 Added Dank Meme 5
 Added Dank Meme 9, Merged Branch 2 and 1
+Added Dank Meme 10, updated STEPS
