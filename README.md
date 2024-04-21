@@ -4,3 +4,4 @@ Git Graph
 Hunter Havard
 9/22/2024
 Added Dank-Meme1
+Updated STEPS and README, causing eventual Conflict
